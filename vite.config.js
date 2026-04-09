@@ -15,7 +15,7 @@ export default defineConfig({
         VitePWA({
             registerType: 'autoUpdate',
             manifest: {
-                name: 'Conch',
+                name: 'Conch: A place that listens',
                 short_name: 'Conch',
                 icons: [
                     {
